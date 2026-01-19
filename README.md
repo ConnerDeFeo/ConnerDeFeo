@@ -54,5 +54,5 @@ AWS, Docker, Terraform, PostgreSQL, DynamoDB, MongoDB, Node.js
 ---
 
 ## 📫 Connect
-- LinkedIn: _(add link)_  
-- Portfolio: _(if you have one)_  
+- LinkedIn: [linkedin.com/in/conner-jack-defeo](https://linkedin.com/in/conner-jack-defeo)
+- Portfolio: [connerdefeo.com](https://connerdefeo.com) 

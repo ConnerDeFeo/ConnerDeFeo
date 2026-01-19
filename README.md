@@ -30,13 +30,18 @@ Building scalable, production-grade systems across web, mobile, and cloud.
 ## 🧠 Projects
 
 ### **FinDiff** — [findiff.com](https://findiff.com)  
-**React (TS) · Python · AWS · Terraform · DynamoDB**  
-AI-powered financial analysis tool that compares SEC filings and flags abnormal YoY changes.
+**React (TS) · Python · AWS · Terraform · DynamoDB · S3**  
+Built a document-aware AI pipeline that **systematically parses, chunks, and indexes SEC 10-Ks** to prevent LLM context loss.  
+- AI-generated summaries are created **per section** and cached in **S3** for reuse  
+- Subsequent queries refetch pre-processed data instead of re-parsing raw filings  
+- Improves accuracy, latency, and cost vs naïve “upload PDF to LLM” approaches  
 
-### **TrackMe**  
+### **TrackMe** - Mobile Application
 **React Native · Expo · Python · AWS · Terraform · PostgreSQL · Docker**  
-Mobile app built with coaches and athletes to track performance data.  
-→ Increased recorded practice data by **~600%**, now growing to **20 DAUs**.
+Mobile app built for a track coach to collect **previously unrecorded athlete workout data**.  
+- Replaced email and paper logs with structured in-app submissions  
+- Centralized athlete times and metadata into a single coach dashboard  
+- Increased recorded practice data by **~600%**, growing to **20 DAUs**
 
 ---
 

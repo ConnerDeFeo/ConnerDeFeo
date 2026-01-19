@@ -43,6 +43,14 @@ Mobile app built for a track coach to collect **previously unrecorded athlete wo
 - Centralized athlete times and metadata into a single coach dashboard  
 - Increased recorded practice data by **~600%**, growing to **20 DAUs**
 
+### **Kaizen Habits** — [kaizenhabits.net](https://kaizenhabits.net)  
+**React (TS) · C# ASP.NET · AWS EC2 · Docker**  
+End-to-end habit tracking web app focused on consistency and long-term progress.  
+- Users can create, edit, and delete habits with **streak and historical progress tracking**  
+- Social features for adding friends and comparing accountability  
+- AI-generated habit recommendations based on user behavior  
+- Containerized and deployed on **EC2**, owning backend, frontend, and infrastructure
+
 ---
 
 ## 🛠️ Skills

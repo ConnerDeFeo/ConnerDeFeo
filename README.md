@@ -9,10 +9,10 @@ Building scalable, production-grade systems across web, mobile, and cloud.
 ## 🚀 Experience
 
 ### Software Engineer Team Lead  
-**Accessible Learning Labs** · Jan 2026 – Present  
-- Leading a team of 3 engineers using Agile to build educational labs on AI bias and hallucinations  
-- Architecting full-stack systems with **React, Node.js, PostgreSQL** deployed across **9 academic institutions**  
-- Driving sprint planning, task breakdowns, and code reviews with a focus on accessibility and instructional clarity  
+**Accessible Learning Labs** · Jan 2026 – May 2026
+- Lead a team of 3 software engineers using Agile methodologies to design and implement educational labs on AI bias and hallucinations
+- Architected and developed full-stack features using React, Node.js, and PostgreSQL for deployment across 9 academic institutions
+- Coordinated sprint planning, task breakdown, and code reviews to ensure work was done fast while maintaining high quality
 
 ### Software Engineer Co-op  
 **Rochester Regional Health** · Aug 2025 – Jan 2026  
@@ -28,6 +28,14 @@ Building scalable, production-grade systems across web, mobile, and cloud.
 ---
 
 ## 🧠 Projects
+
+### **PeakFlow** — [peakflowaiautomations.com](https://peakflowaiautomations.com)  
+**React (TS) · FastAPI · AWS · Terraform · DynamoDB · SES · EC2 · xAI Grok · Twilio**
+Built a document-aware AI pipeline that **systematically parses, chunks, and indexes SEC 10-Ks** to prevent LLM context loss.  
+- Dual-LLM architecture: a streaming conversational model handles natural speech in real time while a parallel background model extracts structured appointment data (name, address, job type, date) to DynamoDB
+- Call-drop resilient: per-turn DynamoDB writes plus xAI store_messages + previous_response_id allow conversations to resume seamlessly after dropped WebSockets
+- Multi-tenant by config: all client-specific behavior (prompts, voices, calendar IDs, greetings) lives in configuration — the core WebSocket handler stays static across clients
+- Deployed on EC2 behind nginx (SSL via Certbot) with systemd for persistence and Terraform + S3-backed remote state for IaC
 
 ### **FinDiff** — [findiff.com](https://findiff.com)  
 **React (TS) · Python · AWS · Terraform · DynamoDB · S3**  

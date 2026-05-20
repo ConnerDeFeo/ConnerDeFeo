@@ -7,7 +7,7 @@ BS Software Engineering @ RIT (GPA 3.85)
 
 ## Experience
 
-### Computer Systems Intern 
+### **Computer Systems Intern**
 **Linde** · May 2026 – Present
 
 ### Software Engineer Team Lead  

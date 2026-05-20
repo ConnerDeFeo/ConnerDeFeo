@@ -5,7 +5,7 @@ BS Software Engineering @ RIT (GPA 3.85)
 
 ---
 
-## Experience
+## Experience 🐳
 
 ### Computer Systems Intern
 **Linde** · May 2026 – Present
@@ -29,7 +29,7 @@ BS Software Engineering @ RIT (GPA 3.85)
 
 ---
 
-## Projects
+## Projects 🐟
 
 ### **PeakFlow** — [peakflowaiautomations.com](https://peakflowaiautomations.com)  
 **React (TS) · FastAPI · AWS · Terraform · DynamoDB · SES · EC2 · xAI Grok · Twilio**
@@ -63,7 +63,7 @@ End-to-end habit tracking web app focused on consistency and long-term progress.
 
 ---
 
-## Skills
+## Skills 🦈
 
 **Languages**  
 Python, C#, JavaScript, TypeScript, HTML, CSS  

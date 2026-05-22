@@ -1,7 +1,7 @@
 # Conner Defeo
 **Software Engineer | Full-Stack | Cloud & DevOps | AI Systems**
 
-BS Software Engineering @ RIT (GPA 3.85)  
+BS Software Engineering @ RIT (GPA 3.83)  
 
 ---
 

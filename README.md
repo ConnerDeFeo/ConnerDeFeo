@@ -9,23 +9,23 @@ BS Software Engineering @ RIT (GPA 3.83)
 
 ### Computer Systems Intern
 **Linde** · May 2026 – Present
+- Collaborating with a data scientist to design and deploy a full-stack production forecasting tool that automates
+volume planning for plant managers, replacing a manual process
+- Built with ASP.NET and React TypeScript frontend, Postgres backend, deployed on Azure, Owning the full-stack
+implementation end to end
 
 ### Software Engineer Team Lead  
-**Accessible Learning Labs** · Jan 2026 – May 2026
+**Accessible Learning Labs** · Jan 2025 – Present
 - Lead a team of 3 software engineers using Agile methodologies to design and implement educational labs on AI bias and hallucinations
 - Architected and developed full-stack features using React, Node.js, and PostgreSQL for deployment across 9 academic institutions
-- Coordinated sprint planning, task breakdown, and code reviews to ensure work was done fast while maintaining high quality
+- Built a research web platform (**React, Node.js, PostgreSQL**) used by **600+ participants** and adopted for recurring studies  
+- Presented at **CCNSE** on the impact of accessible software in education and research  
 
 ### Software Engineer Co-op  
 **Rochester Regional Health** · Aug 2025 – Jan 2026  
 - Implemented CI/CD automation (**GitHub Actions, RenovateBot, NUnit**), cutting maintenance effort by **15–20%**  
 - Refactored and optimized **30+ .NET services**, reducing backend execution time by **60%+** on critical paths  
 - Consistently delivered sprint work **20–40% ahead of estimates**
-
-### Software Engineer  
-**Accessible Learning Labs** · Jan 2025 – May 2025  
-- Built a research web platform (**React, Node.js, PostgreSQL**) used by **600+ participants** and adopted for recurring studies  
-- Presented at **CCNSE** on the impact of accessible software in education and research  
 
 ---
 
@@ -66,13 +66,14 @@ End-to-end habit tracking web app focused on consistency and long-term progress.
 ## Skills 🦈
 
 **Languages**  
-Python, C#, JavaScript, TypeScript, HTML, CSS  
+Python, C#, Java, HTML, CSS, JavaScript, TypeScript, JavaScript
 
 **Frameworks**  
-React, React Native, Expo, Flask, ASP.NET  
+React, React Native, Expo, Flask, ASP.NET
 
 **Cloud / Infra / Data**  
-AWS, Docker, Terraform, PostgreSQL, DynamoDB, MongoDB, Node.js  
+Linux, SQL, Docker, MongoDB, Terraform, Github Actions, Postgres, AWS (EC2, Lambda, IAM, Amplify,
+Cloudfront, S3, SES, DynamoDB, RDS, Bedrock, Route53, RDS, Elastic Beanstalk, API Gateway)
 
 ---
 

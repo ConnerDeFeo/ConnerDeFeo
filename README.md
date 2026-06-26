@@ -69,11 +69,11 @@ End-to-end habit tracking web app focused on consistency and long-term progress.
 Python, C#, Java, HTML, CSS, JavaScript, TypeScript, JavaScript
 
 **Frameworks**  
-React, React Native, Expo, Flask, ASP.NET
+React, React Native, Expo, Flask, ASP.NET, PyTorch, Scikit-learn, LangChain
 
 **Cloud / Infra / Data**  
 Linux, SQL, Docker, MongoDB, Terraform, Github Actions, Postgres, AWS (EC2, Lambda, IAM, Amplify,
-Cloudfront, S3, SES, DynamoDB, RDS, Bedrock, Route53, RDS, Elastic Beanstalk, API Gateway)
+Cloudfront, S3, SES, DynamoDB, RDS, Bedrock, Route53, RDS, Elastic Beanstalk, API Gateway), Jenkins, Kubernetes
 
 ---
 

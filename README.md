@@ -31,7 +31,7 @@ implementation end to end
 
 ## Projects 🐟
 
-### **PeakFlow** — [peakflowaiautomations.com](https://peakflowaiautomations.com)  
+### **PeakFlow** — [peakflow.connerdefeo.com](https://peakflow.connerdefeo.com)  
 **React (TS) · FastAPI · AWS · Terraform · DynamoDB · SES · EC2 · xAI Grok · Twilio**
 Built a document-aware AI pipeline that **systematically parses, chunks, and indexes SEC 10-Ks** to prevent LLM context loss.  
 - Streaming conversational model handles natural speech in real time while a parallel background model extracts structured appointment data (name, address, job type, date) to DynamoDB

@@ -7,12 +7,12 @@ BS Software Engineering @ RIT (GPA 3.83)
 
 ## Experience 🐳
 
-### Computer Systems Intern
+### Software Engineer Intern
 **Linde** · May 2026 – Present
-- Collaborating with a data scientist to design and deploy a full-stack production forecasting tool that automates
-volume planning for plant managers, replacing a manual process
-- Built with ASP.NET and React TypeScript frontend, Postgres backend, deployed on Azure, Owning the full-stack
-implementation end to end
+- Collaborated with a data scientist to design and deploy a full-stack production forecasting tool that saves 1 hour a
+day for plant managers overseeing multiple millions in revenue of daily product production
+- Built with ASP.NET and React TypeScript frontend, Postgres backend, deployed on Azure, owning the full-stack
+implementation end-to-end
 
 ### Software Engineer Team Lead  
 **Accessible Learning Labs** · Jan 2025 – Present
@@ -66,14 +66,14 @@ End-to-end habit tracking web app focused on consistency and long-term progress.
 ## Skills 🦈
 
 **Languages**  
-Python, C#, Java, HTML, CSS, JavaScript, TypeScript, JavaScript
+Python, C#, Java, HTML, CSS, JavaScript, TypeScript, Golang
 
 **Frameworks**  
 React, React Native, Expo, Flask, ASP.NET, PyTorch, Scikit-learn, LangChain
 
 **Cloud / Infra / Data**  
-Linux, SQL, Docker, MongoDB, Terraform, Github Actions, Postgres, AWS (EC2, Lambda, IAM, Amplify,
-Cloudfront, S3, SES, DynamoDB, RDS, Bedrock, Route53, RDS, Elastic Beanstalk, API Gateway), Jenkins, Kubernetes
+Linux, MySQL, Docker, MongoDB, Terraform, GitHub Actions, Postgres, Kubernetes, AWS (EC2, Lambda,
+IAM, Amplify, Cloudfront, S3, SES, DynamoDB, RDS, Bedrock, Route53, RDS, EKS, ECR, API Gateway)
 
 ---
 

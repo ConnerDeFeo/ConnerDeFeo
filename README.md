@@ -10,9 +10,9 @@ BS Software Engineering @ RIT (GPA 3.83)
 ### Software Engineer Intern
 **Linde** · May 2026 – Present
 - Collaborated with a data scientist to design and deploy a full-stack production forecasting tool that saves 1 hour a
-day for plant managers overseeing multiple millions in revenue of daily product production
-- Built with ASP.NET and React TypeScript frontend, Postgres backend, deployed on Azure, owning the full-stack
-implementation end-to-end
+day for plant managers overseeing multiple millions in daily product production revenue
+- Built solo with ASP.NET and a React + TypeScript frontend, backed by PostgreSQL. Containerized with Podman
+and deployed to Azure Kubernetes Service through an automated Azure DevOps CI/CD pipeline
 
 ### Software Engineer Team Lead  
 **Accessible Learning Labs** · Jan 2025 – Present
@@ -72,7 +72,7 @@ Python, C#, Java, HTML, CSS, JavaScript, TypeScript, Golang
 React, React Native, Expo, Flask, ASP.NET, PyTorch, Scikit-learn, LangChain
 
 **Cloud / Infra / Data**  
-Linux, MySQL, Docker, MongoDB, Terraform, GitHub Actions, Postgres, Kubernetes, AWS (EC2, Lambda,
+Linux, MySQL, Docker, MongoDB, Terraform, GitHub Actions, Postgres, Kubernetes, Azure, AWS (EC2, Lambda,
 IAM, Amplify, Cloudfront, S3, SES, DynamoDB, RDS, Bedrock, Route53, RDS, EKS, ECR, API Gateway)
 
 ---

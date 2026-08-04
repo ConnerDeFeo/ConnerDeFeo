@@ -9,10 +9,10 @@ BS Software Engineering @ RIT (GPA 3.83)
 
 ### Software Engineer Intern
 **Linde** · May 2026 – Present
-- Collaborated with a data scientist to design and deploy a full-stack production forecasting tool that saves 1 hour a
-day for plant managers overseeing multiple millions in daily product production revenue
-- Built solo with ASP.NET and a React + TypeScript frontend, backed by PostgreSQL. Containerized with Podman
-and deployed to Azure Kubernetes Service through an automated Azure DevOps CI/CD pipeline
+- Collaborated with a data scientist to design and deploy a full-stack production forecasting tool that saves ∼40k a
+year in time savings for integrated plant managers and ∼200k from more efficient production scheduling
+- Built solo with ASP.NET REST API backend and a React + TypeScript frontend, backed by PostgreSQL.
+Containerized with Podman and deployed to Azure Kubernetes Service
 
 ### Software Engineer Team Lead  
 **Accessible Learning Labs** · Jan 2025 – Present
@@ -31,9 +31,20 @@ and deployed to Azure Kubernetes Service through an automated Azure DevOps CI/CD
 
 ## Projects 🐟
 
+### **Snowball** — Research Tool 
+**Python, Go, Langchain, Terraform, AWS, Kubernetes, Claude Code**
+- Architected a multi-container system scoring companies across 10 fundamentals-based categories from SEC filings
+via a multi-agentic layer workflow, saving 10-12 hours for each initial company investigation
+- Built LangChain review container to check how low level agents return to higher-level ones
+
+### **Weather Predictor** — ML Project
+**React (TS) · FastAPI · AWS · Terraform · DynamoDB · SES · EC2 · xAI Grok · Twilio**
+- Built a weather forecasting model in PyTorch to predict future temperatures for a given region
+- Implemented and bench marked linear regression against a neural network baseline
+
 ### **PeakFlow** — [peakflow.connerdefeo.com](https://peakflow.connerdefeo.com)  
 **React (TS) · FastAPI · AWS · Terraform · DynamoDB · SES · EC2 · xAI Grok · Twilio**
-Built a document-aware AI pipeline that **systematically parses, chunks, and indexes SEC 10-Ks** to prevent LLM context loss.  
+AI call agent that picks up missed calls for local roofing business's 
 - Streaming conversational model handles natural speech in real time while a parallel background model extracts structured appointment data (name, address, job type, date) to DynamoDB
 - Per-turn DynamoDB writes + xAI store_messages + previous_response_id allow conversations to resume seamlessly after dropped WebSockets
 - All client-specific behavior (prompts, voices, calendar IDs, greetings) lives in configuration — the core WebSocket handler stays static across clients
@@ -66,14 +77,13 @@ End-to-end habit tracking web app focused on consistency and long-term progress.
 ## Skills 🦈
 
 **Languages**  
-Python, C#, Java, HTML, CSS, JavaScript, TypeScript, Golang
+Python, C++, C#, Java, HTML, CSS, JavaScript, TypeScript, Go
 
 **Frameworks**  
-React, React Native, Expo, Flask, ASP.NET, PyTorch, Scikit-learn, LangChain
+React, FastAPI, Flask, ASP.NET, PyTorch, Scikit-learn, LangChain
 
 **Cloud / Infra / Data**  
-Linux, MySQL, Docker, MongoDB, Terraform, GitHub Actions, Postgres, Kubernetes, Azure, AWS (EC2, Lambda,
-IAM, Amplify, Cloudfront, S3, SES, DynamoDB, RDS, Bedrock, Route53, RDS, EKS, ECR, API Gateway)
+Linux, SQL, NoSQL, Docker, MongoDB, Terraform, GitHub Actions, Kubernetes, Azure, AWS, Bash
 
 ---
 

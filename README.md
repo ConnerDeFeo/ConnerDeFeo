@@ -15,17 +15,20 @@ year in time savings for integrated plant managers and ∼200k from more efficie
 Containerized with Podman and deployed to Azure Kubernetes Service
 
 ### Software Engineer Team Lead  
-**Accessible Learning Labs** · Jan 2025 – Present
+**Accessible Learning Labs** · Jan 2026 – May 2026
 - Lead a team of 3 software engineers using Agile methodologies to design and implement educational labs on AI bias and hallucinations
 - Architected and developed full-stack features using React, Node.js, and PostgreSQL for deployment across 9 academic institutions
-- Built a research web platform (**React, Node.js, PostgreSQL**) used by **600+ participants** and adopted for recurring studies  
-- Presented at **CCNSE** on the impact of accessible software in education and research  
 
 ### Software Engineer Co-op  
 **Rochester Regional Health** · Aug 2025 – Jan 2026  
 - Implemented CI/CD automation (**GitHub Actions, RenovateBot, NUnit**), cutting maintenance effort by **15–20%**  
 - Refactored and optimized **30+ .NET services**, reducing backend execution time by **60%+** on critical paths  
 - Consistently delivered sprint work **20–40% ahead of estimates**
+
+### Software Engineer  
+**Accessible Learning Labs** · Jan 2025 – May 2025
+- Built a research web platform (**React, Node.js, PostgreSQL**) used by **600+ participants** and adopted for recurring studies  
+- Presented at **CCNSE** on the impact of accessible software in education and research  
 
 ---
 
